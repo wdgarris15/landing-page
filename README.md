@@ -1,1 +1,2 @@
 # landing-page
+Hello! this is my attempt at the landing page assignment at the end of the Flexbox tutorial for The Odin Project. I plan to use the site that I build for this project as the foundation for my eventual portfolio site.
