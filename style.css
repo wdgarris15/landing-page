@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  /**First Section **/
+
+a {
+  color: #e5e7eb;
+  font-size: 18px;  
+}
+
+.section-one {
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+
+.header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    padding: 20px 0px 0px 100px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.link-one   {
+    margin: 20px 10px;
+}
+
+.link-two {
+    margin: 20px 10px;
+}
+
+.link-three {
+    margin: 20px 10px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
